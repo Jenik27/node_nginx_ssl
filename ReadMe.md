@@ -20,10 +20,14 @@ proxy_cache_bypass $http_upgrade;
 # (optional) in server_name put your domain, with and without www
 ```
 
-## Add domain
+## Add domain and SSL
 
 TODO
 
-```
+# NGINX
 
-```
+- there are directives and contexts in nginx.conf
+- directives are like commands
+- contexts are like blocks
+
+- more guide on *https://www.youtube.com/watch?v=7VAI73roXaY&t=613s*
